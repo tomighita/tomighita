@@ -2,8 +2,6 @@
 <p><em>
 Currently a Computer Science and Engineering <a href="https://www.tudelft.nl/en/">Delft University of Technology</a><img src="https://media.giphy.com/media/PdrdfTTrlANszSLYNA/giphy.gif" width="30">
 </br>
-Software Developer at <a style="color:green" href="https://www.keba.com">Keba</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 **You can also find me at:**  
 <!-- 
