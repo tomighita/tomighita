@@ -6,7 +6,6 @@
 
 
 - Email: ghitavictorfilip@gmail.com
-- Instagram: https://www.instagram.com/tomi.ghita/
 - LinkedIn: https://www.linkedin.com/in/victor-filip-ghita-b349101a8/
 
 <!---
