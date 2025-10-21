@@ -1,4 +1,4 @@
-<p>Software Engineer @ <a href="https://mongodb.com">MongoDB</a></p>
+Software Engineer @ [dbt Labs](https://www.getdbt.com/)
 
 **You can also find me at:**  
 <!-- 
@@ -6,7 +6,7 @@
 
 
 - Email: ghitavictorfilip@gmail.com
-- LinkedIn: https://www.linkedin.com/in/victor-filip-ghita-b349101a8/
+- LinkedIn: [https://www.linkedin.com/in/victor-filip-ghita/](https://www.linkedin.com/in/victor-filip-ghita/)
 
 <!---
 tomighita/tomighita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
